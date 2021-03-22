@@ -1,0 +1,36 @@
+2021-03-15 15:28:58.459 [main] INFO  c.imooc.user.Application - Starting Application on SFJ with PID 12824 (D:\IdeaProjects\imooc-news-dev\imooc-news-service-user\target\classes started by 10121 in D:\IdeaProjects\imooc-news-dev)
+2021-03-15 15:28:58.462 [main] INFO  c.imooc.user.Application - No active profile set, falling back to default profiles: default
+2021-03-15 15:28:59.391 [main] INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8004 (http)
+2021-03-15 15:28:59.403 [main] INFO  o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8004"]
+2021-03-15 15:28:59.404 [main] INFO  o.a.c.c.StandardService - Starting service [Tomcat]
+2021-03-15 15:28:59.404 [main] INFO  o.a.c.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.31]
+2021-03-15 15:28:59.521 [main] INFO  o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext
+2021-03-15 15:28:59.521 [main] INFO  o.s.w.c.ContextLoader - Root WebApplicationContext: initialization completed in 976 ms
+2021-03-15 15:28:59.693 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-15 15:28:59.836 [main] INFO  o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8004"]
+2021-03-15 15:28:59.865 [main] INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8004 (http) with context path ''
+2021-03-15 15:28:59.869 [main] INFO  c.imooc.user.Application - Started Application in 1.945 seconds (JVM running for 4.397)
+2021-03-15 16:06:34.018 [main] INFO  c.imooc.user.Application - Starting Application on SFJ with PID 16780 (D:\IdeaProjects\imooc-news-dev\imooc-news-service-user\target\classes started by 10121 in D:\IdeaProjects\imooc-news-dev)
+2021-03-15 16:06:34.020 [main] INFO  c.imooc.user.Application - The following profiles are active: dev
+2021-03-15 16:06:34.932 [main] INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8004 (http)
+2021-03-15 16:06:34.942 [main] INFO  o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8004"]
+2021-03-15 16:06:34.942 [main] INFO  o.a.c.c.StandardService - Starting service [Tomcat]
+2021-03-15 16:06:34.943 [main] INFO  o.a.c.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.31]
+2021-03-15 16:06:35.070 [main] INFO  o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext
+2021-03-15 16:06:35.070 [main] INFO  o.s.w.c.ContextLoader - Root WebApplicationContext: initialization completed in 970 ms
+2021-03-15 16:06:35.237 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-15 16:06:35.370 [main] INFO  o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8004"]
+2021-03-15 16:06:35.398 [main] INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8004 (http) with context path ''
+2021-03-15 16:06:35.401 [main] INFO  c.imooc.user.Application - Started Application in 1.897 seconds (JVM running for 4.368)
+2021-03-15 16:07:53.558 [main] INFO  c.imooc.user.Application - Starting Application on SFJ with PID 7536 (D:\IdeaProjects\imooc-news-dev\imooc-news-service-user\target\classes started by 10121 in D:\IdeaProjects\imooc-news-dev)
+2021-03-15 16:07:53.561 [main] INFO  c.imooc.user.Application - The following profiles are active: test
+2021-03-15 16:07:54.570 [main] INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8014 (http)
+2021-03-15 16:07:54.580 [main] INFO  o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8014"]
+2021-03-15 16:07:54.580 [main] INFO  o.a.c.c.StandardService - Starting service [Tomcat]
+2021-03-15 16:07:54.581 [main] INFO  o.a.c.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.31]
+2021-03-15 16:07:54.687 [main] INFO  o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext
+2021-03-15 16:07:54.687 [main] INFO  o.s.w.c.ContextLoader - Root WebApplicationContext: initialization completed in 1037 ms
+2021-03-15 16:07:54.853 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-15 16:07:55.015 [main] INFO  o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8014"]
+2021-03-15 16:07:55.049 [main] INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8014 (http) with context path ''
+2021-03-15 16:07:55.053 [main] INFO  c.imooc.user.Application - Started Application in 1.989 seconds (JVM running for 4.423)

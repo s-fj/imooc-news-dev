@@ -8,13 +8,11 @@
         <outputRelativeToContentRoot value="true" />
         <module name="imooc-news-service-user" />
         <module name="imooc-news-dev-model" />
+        <module name="mybatis-generator-database" />
         <module name="imooc-news-dev-common" />
         <module name="imooc-news-dev-service-api" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="mybatis-generator-database" target="1.5" />
-    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">

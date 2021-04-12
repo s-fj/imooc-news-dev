@@ -16,11 +16,11 @@
 	<dependencies>
 
 		<!-- 引入log4j日志依赖 -->
-		<!--<dependency>
+		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-log4j</artifactId>
 			<version>1.3.8.RELEASE</version>
-		</dependency>-->
+		</dependency>
 
 		<!-- 阿里开源数据源 -->
 		<dependency>
@@ -52,7 +52,7 @@
 			<artifactId>mapper-spring-boot-starter</artifactId>
 			<version>1.2.4</version>
 		</dependency>
-		<!--pagehelper-->
+		<!--pagehelper 分页-->
 		<dependency>
 			<groupId>com.github.pagehelper</groupId>
 			<artifactId>pagehelper-spring-boot-starter</artifactId>

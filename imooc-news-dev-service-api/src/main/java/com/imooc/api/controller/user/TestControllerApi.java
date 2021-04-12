@@ -4,8 +4,9 @@ package com.imooc.api.controller.user;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
 import org.springframework.web.bind.annotation.GetMapping;
-@Api(value = "controller的标题—Hello", tags = {"Hello功能的controller"})
-public interface HelloControllerApi {
+
+@Api(value = "controller的标题—Test", tags = {"Test功能的controller"})
+public interface TestControllerApi {
     /**
      * api 的作用：
      *接口暴露给外部调用，统一在此进行管理调用
@@ -20,8 +21,8 @@ public interface HelloControllerApi {
      * 所有的配置文件只需要一份，就能在当前项目中构建了
      * 方便管理，提高扩展度
      */
-    @ApiOperation(value = "hello方法的接口value", notes = "hello方法的接口notes", httpMethod = "GET")
-    @GetMapping("/hello")
-    public Object hello();
+    @ApiOperation(value = "Test方法的接口value", notes = "Test方法的接口notes", httpMethod = "GET")
+    @GetMapping("/test")
+    public Object test();
 }
 
